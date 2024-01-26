@@ -1,0 +1,30 @@
+const datosCiudadesPaises = [
+  { Country: "Argentina", Name: "Buenos Aires" },
+  { Country: "Argentina", Name: "Córdoba" },
+  { Country: "Argentina", Name: "Rosario" },
+  { Country: "Argentina", Name: "Mendoza" },
+  { Country: "Argentina", Name: "La Plata" },
+  { Country: "Brasil", Name: "Sao Paulo" },
+  { Country: "Brasil", Name: "Río de Janeiro" },
+  { Country: "Brasil", Name: "Brasilia" },
+  { Country: "Brasil", Name: "Salvador" },
+  { Country: "Brasil", Name: "Fortaleza" },
+  { Country: "Estados Unidos", Name: "Nueva York" },
+  { Country: "Estados Unidos", Name: "Los Ángeles" },
+  { Country: "Estados Unidos", Name: "Chicago" },
+  { Country: "Estados Unidos", Name: "Miami" },
+  { Country: "Estados Unidos", Name: "San Francisco" },
+  { Country: "Francia", Name: "París" },
+  { Country: "Francia", Name: "Marsella" },
+  { Country: "Francia", Name: "Lyon" },
+  { Country: "Francia", Name: "Niza" },
+  { Country: "Francia", Name: "Toulouse" },
+  { Country: "India", Name: "Nueva Delhi" },
+  { Country: "India", Name: "Bombay" },
+  { Country: "India", Name: "Bangalore" },
+  { Country: "India", Name: "Calcuta" },
+  { Country: "India", Name: "Chennai" },
+  // Añadir más países y ciudades según sea necesario
+];
+
+module.exports = datosCiudadesPaises;
